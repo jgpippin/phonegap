@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "merges"
+		},
+		{
+			"path": "platforms"
+		},
+		{
+			"path": "plugins"
+		},
+		{
+			"path": "www"
+		}
+	]
+}

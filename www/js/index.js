@@ -16,6 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+ prompt("Eat a dick");
 var app = {
     // Application Constructor
     initialize: function() {
